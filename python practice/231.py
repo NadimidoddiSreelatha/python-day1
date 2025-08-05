@@ -1,0 +1,5 @@
+t=('apple','orange','banana')
+t=list(t)
+t.append('mango')
+p=tuple(t)
+print(p)
